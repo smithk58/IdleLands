@@ -23,7 +23,7 @@
 %player was given a golden axe by an axe-fairy. %player used the golden axe to cut down an Experience Tree, using the woodchipper to convert it into %xpxp.
 %player divided by zero. The universe gave %himher %xpxp as compensation.
 %player caught a magikarp and sold it to some stupid kid who thought it would actually be useful. The kid gave him %xpxp for it!
-%player sold an organ on the black market. It certainly wasn't %hishers, obviously. %player earned %xpxp for %hisher sale.
+%player sold an organ on the black market. It certainly wasn't %hisher, obviously. %player earned %xpxp for %hisher sale.
 %player took a left at Albuquerque, and managed to find %xpxp underground.
 %player decided to relax for a bit. %player found some insight during %hisher relaxation, gaining %xpxp as %she pondered.
 %player was given a crystal of pure experience, worth %xpxp!
